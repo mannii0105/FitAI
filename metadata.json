@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitAI - Virtual Sizing SaaS",
+  "description": "AI-powered body measurement and dress suggestion platform using computer vision and Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
